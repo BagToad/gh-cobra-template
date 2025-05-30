@@ -4,7 +4,7 @@ go 1.23.1
 
 require (
 	github.com/MakeNowJust/heredoc v1.0.0
-	github.com/cli/go-gh/v2 v2.12.0
+	github.com/cli/go-gh/v2 v2.12.1
 	github.com/spf13/cobra v1.9.1
 )
 
